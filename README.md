@@ -1,1 +1,1 @@
-# CardgameTask
+# CardgameTask solo
